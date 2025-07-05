@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1748989956 source:c:\users\zulem\onedrive\desktop\proyecto integrador\enfrendados\main.cpp
+	<iostream>
+	"DeclaracionFunciones.h"
+	<string>
+	<ctime>
+	<cstdlib>
+
+1748996386 c:\users\zulem\onedrive\desktop\proyecto integrador\enfrendados\declaracionfunciones.h
+	<string>
+	<cstring>
+
+1748996386 source:c:\users\zulem\onedrive\desktop\proyecto integrador\enfrendados\definiciondefunciones.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"DeclaracionFunciones.h"
+
+1750781237 source:c:\users\ale\desktop\recursos utn\practicas programacion 1\practicas cpp\projects\enfrendados\main.cpp
+	<iostream>
+	"DeclaracionFunciones.h"
+	<string>
+	<ctime>
+	<cstdlib>
+	"rlutil.h"
+
+1750781225 c:\users\ale\desktop\recursos utn\practicas programacion 1\practicas cpp\projects\enfrendados\declaracionfunciones.h
+	<string>
+
+1750780943 source:c:\users\ale\desktop\recursos utn\practicas programacion 1\practicas cpp\projects\enfrendados\definiciondefunciones.cpp
+	<iostream>
+	<string>
+	"DeclaracionFunciones.h"
+	"rlutil.h"
+
+1748997395 c:\users\ale\desktop\recursos utn\practicas programacion 1\practicas cpp\projects\enfrendados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750793846 source:c:\users\esteban reyes\downloads\enfrendados\definiciondefunciones.cpp
+	<iostream>
+	<string>
+	"DeclaracionFunciones.h"
+	"rlutil.h"
+
+1750793912 c:\users\esteban reyes\downloads\enfrendados\declaracionfunciones.h
+	<string>
+
+1748997395 c:\users\esteban reyes\downloads\enfrendados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750790466 source:c:\users\esteban reyes\downloads\enfrendados\main.cpp
+	<iostream>
+	"DeclaracionFunciones.h"
+	<string>
+	<ctime>
+	<cstdlib>
+	"rlutil.h"
+
+1750792032 source:c:\users\esteban reyes\downloads\enfrendados\creditosdevs.cpp
+	<iostream>
+	<string>
+	"DeclaracionFunciones.h"
+	"rlutil.h"
+
+1750794076 source:c:\users\esteban reyes\downloads\enfrendados\funcionesranking.cpp
+	<iostream>
+	<string>
+	"DeclaracionFunciones.h"
+	"rlutil.h"
+
+1750787949 source:c:\users\esteban reyes\downloads\enfrendados\funcionesvisuales.cpp
+	<iostream>
+	<string>
+	"DeclaracionFunciones.h"
+	"rlutil.h"
+
+1750792032 source:c:\users\ale\desktop\tp integrador\enfrendados\creditosdevs.cpp
+	<iostream>
+	<string>
+	"DeclaracionFunciones.h"
+	"rlutil.h"
+
+1750793912 c:\users\ale\desktop\tp integrador\enfrendados\declaracionfunciones.h
+	<string>
+
+1748997395 c:\users\ale\desktop\tp integrador\enfrendados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750794076 source:c:\users\ale\desktop\tp integrador\enfrendados\funcionesranking.cpp
+	<iostream>
+	<string>
+	"DeclaracionFunciones.h"
+	"rlutil.h"
+
+1750787949 source:c:\users\ale\desktop\tp integrador\enfrendados\funcionesvisuales.cpp
+	<iostream>
+	<string>
+	"DeclaracionFunciones.h"
+	"rlutil.h"
+
+1750794197 source:c:\users\ale\desktop\tp integrador\enfrendados\main.cpp
+	<iostream>
+	"DeclaracionFunciones.h"
+	<string>
+	<ctime>
+	<cstdlib>
+	"rlutil.h"
+
+1750799250 source:c:\users\ale\desktop\tp integrador\enfrendados\definiciondefunciones.cpp
+	<iostream>
+	<string>
+	"DeclaracionFunciones.h"
+	"rlutil.h"
+
