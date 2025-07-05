@@ -39,5 +39,5 @@ Si no lo logra:
 - Uso de **funciones** y **vectores** para modularizar el código.
 - Generación de dados con `rand()` y `srand()`.
 
-    ![Captura del juego](assets/menuEnfrendados.png)
+    ![Captura del juego](menuEnfrendados.png)
 
